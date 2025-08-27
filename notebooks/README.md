@@ -4,6 +4,10 @@
     Example of generating responses from medical text and images by running the
     model locally from Hugging Face.
 
+*   [Quick start with Ollama](quick_start_with_ollama.ipynb) -
+    Example of running MedGemma completely locally using Ollama for privacy-focused
+    inference without requiring API tokens or internet connectivity.
+
 *   [Quick start with Model Garden](quick_start_with_model_garden.ipynb) -
     Example of serving the model on
     [Vertex AI](https://cloud.google.com/vertex-ai/docs/predictions/overview)
